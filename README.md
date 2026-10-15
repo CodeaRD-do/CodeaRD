@@ -29,10 +29,6 @@ Portal principal y plataforma comunitaria para ingenieros de software, desarroll
 
 ## Stack Tecnologico Propuesto
 
-- **Frontend:** Next.js / TypeScript / Tailwind CSS
-- **Backend:** Node.js (Express / Fastify) o Python (FastAPI)
-- **Base de Datos:** PostgreSQL / Redis
-- **Infraestructura y Despliegue:** Vercel / Docker / GitHub Actions (CI/CD)
 
 ---
 
@@ -50,43 +46,14 @@ Portal principal y plataforma comunitaria para ingenieros de software, desarroll
 
 ### Requisitos Previos
 
-- Node.js (version 18 o superior)
-- Gestor de paquetes: `npm`, `pnpm` o `yarn`
-- Git
 
 ### Pasos de Configuracion
 
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/CodeaRD-do/CodeaRD.git
 
-# 2. Ingresar al directorio del proyecto
-cd CodeaRD
-
-# 3. Instalar dependencias (cuando esten configuradas)
-npm install
-
-# 4. Iniciar servidor de desarrollo
-npm run dev
-```
 
 ---
 
 ## Guia de Colaboracion
 
-Agradecemos todas las contribuciones para impulsar el software libre en Republica Dominicana:
+Agradecemos todas las contribuciones para impulsar el software libre en Republica Dominicana
 
-1. Realiza un `Fork` de este repositorio.
-2. Crea una rama de trabajo para tu caracteristica: `git checkout -b feature/nueva-funcionalidad`.
-3. Confirma tus cambios: `git commit -m "feat: implementacion de nueva funcionalidad"`.
-4. Envia tus cambios a tu repositorio remoto: `git push origin feature/nueva-funcionalidad`.
-5. Abre un `Pull Request` detallando las modificaciones realizadas.
-
----
-
-<div align="center">
-
-Parte de la organizacion **[CodeaRD-do](https://github.com/CodeaRD-do)**  
-Santo Domingo, Republica Dominicana
-
-</div>
